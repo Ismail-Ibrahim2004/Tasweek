@@ -87,6 +87,7 @@ Tasweek E-commerce is a web-based platform designed to provide a seamless online
    - Use a code editor (e.g., VS Code) to modify and enhance the frontend.
 3. *Run the project:*
    - Open index.html in a browser to preview the website.
+## show project [https://ismail-ibrahim2004.github.io/Tasweek/]
 
 ## Future Enhancements
 - 🔧 *Backend Development:* Integration of a backend system using Node.js and a database.
